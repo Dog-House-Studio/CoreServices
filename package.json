@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"displayName": "Dog House Core Services",
 	"description": "A package containing a variety of core services used in all dog house games.",
-	"unity": "2019.3.0f5",
+	"unity": "2019.3",
 	"dependencies":{
 		"com.doghouse.dogscaffold" : "1.0.0"
 	},
