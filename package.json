@@ -1,15 +1,24 @@
 {
-	"name": "com.doghouse.coreservices",
-	"version": "1.0.0",
-	"displayName": "Dog House Core Services",
-	"description": "A package containing a variety of core services used in all dog house games.",
-	"unity": "2019.3",
-	"dependencies":{
-		"com.doghouse.dogscaffold" : "1.0.0"
-	},
-	"keywords": ["library", "scaffold", "dog", "utility", "service", "core"],
-	"author":{
-		"name": "Luke Trynchuk",
-		"email": "luke.trynchuk@doghousegamestudio.com"
-	}
+  "name": "com.doghouse.coreservices",
+  "version": "1.0.1",
+  "displayName": "Dog House Core Services",
+  "description": "A package containing a variety of core services used in all dog house games.",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.doghouse.dogscaffold": "1.0.0"
+  },
+  "keywords": [
+    "library",
+    "scaffold",
+    "dog",
+    "utility",
+    "service",
+    "core"
+  ],
+  "author": {
+    "name": "Luke Trynchuk",
+    "email": "luke.trynchuk@doghousegamestudio.com"
+  },
+  "type": "library",
+  "hideInEditor": false
 }
