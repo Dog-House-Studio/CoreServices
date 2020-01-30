@@ -1,8 +1,8 @@
 {
   "name": "com.doghouse.coreservices",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Dog House Core Services",
-  "description": "A package containing a variety of core services used in all dog house games.",
+  "description": "A package containing a variety of core services used in all dog house games.\n\n1.0.0 - Initial Release\n1.0.1 - Added placeholder prefabs for services\n1.0.2 - Added define for package. CORE_SERVICES",
   "unity": "2019.3",
   "dependencies": {
     "com.doghouse.dogscaffold": "1.0.0"
@@ -19,6 +19,5 @@
     "name": "Luke Trynchuk",
     "email": "luke.trynchuk@doghousegamestudio.com"
   },
-  "type": "library",
   "hideInEditor": false
 }
