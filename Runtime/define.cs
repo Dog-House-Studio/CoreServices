@@ -1,0 +1,1 @@
+﻿#define CORE_SERVICES
